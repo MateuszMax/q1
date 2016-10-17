@@ -1,0 +1,26 @@
+body {
+	text-align: center;
+}
+#D1 
+	{
+    border-radius: 15px;
+    background: #73AD21;
+    padding: 5px;
+	padding-bottom: 15px;
+	
+}
+#D2 {
+	border-radius:10px;
+	background: #73AD55;
+	padding:5px;
+	padding-top: 20px;
+	padding-bottom: 15px;
+}
+#D3 {
+	border-radius:10px;
+	background: #73AD80;
+	padding:5px;
+	padding-top: 20px;
+	padding-bottom: 15px;
+	
+}
