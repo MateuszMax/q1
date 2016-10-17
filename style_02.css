@@ -27,7 +27,7 @@ body {
 	
 }
 }
-@media only screen and (max-device-width:480px){
+@media only screen and (max-device-width:721px){
 	body {
 	background:#555555;
 	}
