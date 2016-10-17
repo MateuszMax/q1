@@ -1,4 +1,4 @@
-@media only screen;
+@media only screen and (min-device-width: 481px){
 
 body {
 	text-align: center;
@@ -25,4 +25,5 @@ body {
 	padding-top: 20px;
 	padding-bottom: 15px;
 	
+}
 }
